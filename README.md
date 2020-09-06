@@ -1,1 +1,1 @@
-# Tensorflow_certification_GY
+# Resources used for certification
